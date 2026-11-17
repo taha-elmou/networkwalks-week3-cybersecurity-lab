@@ -81,7 +81,7 @@ The results demonstrated how dictionary attacks can exploit weak and predictable
 
 These findings highlight the risks associated with weak password policies.
 
-## 🚩 CTF Flags Captured
+## 🚩 Flags Captured
 
 The following flags were obtained during the lab:
 
